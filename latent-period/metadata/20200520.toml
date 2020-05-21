@@ -1,0 +1,5 @@
+[source]
+version = "1.0"
+type = "parameter"
+location = "data/2.toml"
+max_warning = 0
