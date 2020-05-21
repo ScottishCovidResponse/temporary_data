@@ -1,5 +1,6 @@
 [source]
 version = "0.1"
+description = "Latent period for COVID-19 infection"
 type = "parameter"
 location = "data/1.toml"
 max_warning = 3
