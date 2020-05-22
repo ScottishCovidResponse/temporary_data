@@ -1,4 +1,4 @@
 # Datasets
 
-- latent-period
-- Scottish-demographics
+- human/SARS-CoV-2/latent-period
+- human/scotland/demographics
