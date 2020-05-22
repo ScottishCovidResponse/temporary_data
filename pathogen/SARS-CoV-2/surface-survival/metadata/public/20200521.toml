@@ -1,0 +1,7 @@
+[source]
+version = "0.1"
+description = "Surface survival time for SARS-CoV-2 virus outside"
+type = "parameter"
+location = "data/1.toml"
+max_warning = 3
+messages = ["3: point estimate"]
