@@ -6,7 +6,7 @@ version = "0.1"
 type = "dataset"
 origin = "git"
 git-repo = "https://github.com/ScottishCovidResponse/temporary_data"
-path = "human/scotland/demographics/data/scrc_demographics.h5"
+path = "human/demographics/scotland/data/scrc_demographics.h5"
 within = "scotland_2018/groupages_postcode_10k"
 max_warning = 0
 
@@ -16,7 +16,7 @@ version = "0.1"
 type = "dataset"
 origin = "git"
 git-repo = "https://github.com/ScottishCovidResponse/temporary_data"
-path = "human/scotland/demographics/data/scrc_demographics.h5"
+path = "human/demographics/scotland/data/scrc_demographics.h5"
 within = "scotland_2018/groupages_postcode_1k"
 max_warning = 2
 messages = ["2: grid resize possibly too small for source data"]
