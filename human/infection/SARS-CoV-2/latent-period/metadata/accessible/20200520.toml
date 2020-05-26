@@ -4,3 +4,4 @@ description = "Latent period for COVID-19 infection"
 type = "parameter"
 location = "data/2.toml"
 max_warning = 0
+hash = "yyy"

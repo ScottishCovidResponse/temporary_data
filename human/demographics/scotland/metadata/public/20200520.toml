@@ -1,22 +1,18 @@
 [source]
+type = "dataset"
+origin = "git"
+version = "0.1"
+git-repo = "https://github.com/ScottishCovidResponse/temporary_data"
+path = "human/demographics/scotland/data/scrc_demographics.h5"
+hash = "zzz"
 
 [source.groupages-10k-grid]
 description = "Scottish demographic data in 5 year chunks on a 10km grid"
-version = "0.1"
-type = "dataset"
-origin = "git"
-git-repo = "https://github.com/ScottishCovidResponse/temporary_data"
-path = "human/demographics/scotland/data/scrc_demographics.h5"
 within = "scotland_2018/groupages_postcode_10k"
 max_warning = 0
 
 [source.groupages-1k-grid]
 description = "Scottish demographic data in 5 year chunks on a 1km grid"
-version = "0.1"
-type = "dataset"
-origin = "git"
-git-repo = "https://github.com/ScottishCovidResponse/temporary_data"
-path = "human/demographics/scotland/data/scrc_demographics.h5"
 within = "scotland_2018/groupages_postcode_1k"
 max_warning = 2
 messages = ["2: grid resize possibly too small for source data"]
