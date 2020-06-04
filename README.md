@@ -18,7 +18,3 @@
 
 - For simplicity, there are no longer any attached attributes.
 
-
-**Please note the following:**
-
-- 
