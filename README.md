@@ -1,7 +1,10 @@
 # Datasets
 
-- human/SARS-CoV-2/latent-period
+- human/infection/SARS-CoV-2/latent-period
 - human/demographics/scotland
+  - https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/2011-based-special-area-population-estimates/small-area-population-estimates/time-series
+- human/infection/scotland/mortality
+  - https://statistics.gov.scot/data/deaths-involving-coronavirus-covid-19
 
 - pathogen/SARS-CoV-2/surface-survival
 
@@ -15,6 +18,4 @@
 - Each subgroup contains the following data objects: `array` (the data), `Dimension_1_title` (the title of the first dimension),  `Dimension_1_names` (the names of the first dimension), `Dimension_2_title` (the title of the second dimension), and `Dimension_2_names` (the names of the second dimension).
 
   - Groups `grid10km` and `grid1km` are the exception to this, which includes `Dimension_1_values` (a 2xN matrix of x,y coordinates) and `Dimension_1_units` (the units of the array). As before, these coordinates denote the row and column of each grid location, starting in the lower left-hand corner. 
-
-- For simplicity, there are no longer any attached attributes.
 
