@@ -1,0 +1,3 @@
+[distribution]
+distribution = "poisson"
+mu = 42 
