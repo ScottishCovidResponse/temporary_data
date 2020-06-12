@@ -1,0 +1,9 @@
+[source]
+version = "0.1"
+description = "Proportion of social-distancing contacts experienced by people who are self-isolating"
+type = "distribution"
+location = "data/1.toml"
+max_warning = 3
+messages = ["3: point estimate",
+            "2: equal weight to source materials of varying quality"]
+hash = "xxx"
