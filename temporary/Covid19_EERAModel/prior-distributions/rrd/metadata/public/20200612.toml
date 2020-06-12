@@ -4,6 +4,5 @@ description = "Risk of death if not hospitalised"
 type = "distribution"
 location = "data/1.toml"
 max_warning = 3
-messages = ["3: point estimate",
-            "2: equal weight to source materials of varying quality"]
+messages = ["3: distribution"]
 hash = "xxx"
