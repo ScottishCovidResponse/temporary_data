@@ -1,0 +1,9 @@
+[source]
+version = "0.1"
+description = "Reduction factor of infectiousness for asymptomatic infectious individuals"
+type = "parameter"
+location = "data/1.toml"
+max_warning = 3
+messages = ["3: point estimate",
+            "2: equal weight to source materials of varying quality"]
+hash = "xxx"
