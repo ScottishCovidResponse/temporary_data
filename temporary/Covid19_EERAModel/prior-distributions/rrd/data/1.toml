@@ -1,0 +1,4 @@
+[distribution]
+distribution = "gamma"
+shape_alpha = 1.0
+shape_beta = 1.0

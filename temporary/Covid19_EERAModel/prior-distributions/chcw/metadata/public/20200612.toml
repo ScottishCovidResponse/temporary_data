@@ -1,0 +1,8 @@
+[source]
+version = "0.1"
+description = "Mean number of HCW-patient contacts per day"
+type = "distribution"
+location = "data/1.toml"
+max_warning = 3
+messages = ["3: distribution"]
+hash = "xxx"

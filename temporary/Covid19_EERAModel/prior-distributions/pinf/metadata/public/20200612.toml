@@ -1,0 +1,8 @@
+[source]
+version = "0.1"
+description = "Probability of infection given contact (non-HCW)"
+type = "distribution"
+location = "data/1.toml"
+max_warning = 3
+messages = ["3: distribution"]
+hash = "xxx"

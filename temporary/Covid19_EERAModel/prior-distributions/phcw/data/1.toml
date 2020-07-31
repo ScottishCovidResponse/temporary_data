@@ -1,0 +1,4 @@
+[distribution]
+distribution = "beta"
+shape_alpha = 3.0
+shape_beta = 3.0
